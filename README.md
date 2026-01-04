@@ -2,6 +2,7 @@
 A reverse engineered explorer dll from StartAllBack that makes legacy light mode UI components of windows Dark Mode, such as the run box.
 
 The following screenshots are from the .UNFINISHED version of dllmain.cpp. The regular dllmain.cpp file has code that works for both the run box and delete file confirmation boxes, and in this version, there are no visual artifacts or defects. However, no support for all other types of windows and controls is not finished. 
+
 Run Box
 
 <img width="413" height="229" alt="image" src="https://github.com/user-attachments/assets/8b0ed062-e29c-4814-beb4-d86de4d23cdc" />
