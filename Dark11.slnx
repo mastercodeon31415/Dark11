@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BinaryMinifier/BinaryMinifier.csproj" />
+  <Project Path="DarkEnforcer/DarkEnforcer.vcxproj" Id="be35199a-a6cb-4518-aa01-0eefa629236f" />
+  <Project Path="DarkLoader/DarkLoader.csproj" Id="731fd1a2-828e-4b54-9f62-65ae03a5b06e">
+    <Platform Solution="Release|x64" Project="x64" />
+  </Project>
+</Solution>
